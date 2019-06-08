@@ -100,14 +100,14 @@
 	
   <distributionManagement>
 	    <repository>
-	      <id>repo</id>
-	      <name>repo</name>
-	      <url>http://localhost:8081/repository/maven-releases/</url>
+	      <id>releases</id>
+	      <name>myrepo_releases</name>
+	      <url>http://localhost:8081/repository/myrepo_releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>snapshots</id>
-	      <name>snapshots</name>
-	      <url>http://localhost:8081/repository/maven-snapshots/</url>
+	      <name>myrepo_snapshots</name>
+	      <url>http://localhost:8081/repository/myrepo_snapshots/</url>
 	    </snapshotRepository>
    </distributionManagement>
 
