@@ -100,13 +100,13 @@
 	
   <distributionManagement>
 	    <repository>
-	      <id>nexus</id>
-	      <name>admin</name>
+	      <id>repo</id>
+	      <name>repo</name>
 	      <url>http://localhost:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>admin</name>
+	      <id>snapshots</id>
+	      <name>snapshots</name>
 	      <url>http://localhost:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
    </distributionManagement>
