@@ -101,13 +101,13 @@
   <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>myrepo_releases</name>
-	      <url>http://localhost:8081/repository/myrepo_releases/</url>
+	      <name>siva technologies releases nexus repository</name>
+	      <url>http://localhost:8081/repository/siva-technologies-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>myrepo_snapshots</name>
-	      <url>http://localhost:8081/repository/myrepo_snapshots/</url>
+	      <name>siva technologies snapshot nexus repository</name>
+	      <url>http://localhost:8081/repository/siva-technologies-snapshots/</url>
 	    </snapshotRepository>
    </distributionManagement>
 
