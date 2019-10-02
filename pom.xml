@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>siva technologies releases nexus repository</name>
-	      <url>http://localhost:8081/repository/siva-technologies-releases/</url>
+	      <url>http://localhost:8081/repository/shivatech-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>siva technologies snapshot nexus repository</name>
-	      <url>http://localhost:8081/repository/siva-technologies-snapshots/</url>
+	      <url>http://localhost:8081/repository/shivatech-snapshots/</url>
 	    </snapshotRepository>
    </distributionManagement>
 
